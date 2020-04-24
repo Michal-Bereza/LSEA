@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="010b82ff-3902-4101-bc89-f1f4690bd58e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZM6ZAMwGMrHntA94w3fNejaZVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\IdeaProjects\LSEAquiz" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\IdeaProjects\LSEAquiz" />
+      <recent name="C:\Users\micha\IdeaProjects\LSEAquiz\src\LSEAquiz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.User">
+    <configuration name="Admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LSEAquiz.Admin" />
+      <module name="LSEAquiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LSEAquiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LSEAquiz.Main" />
+      <module name="LSEAquiz" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LSEAquiz.User" />
+      <module name="LSEAquiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LSEAquiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.User" />
+      <item itemvalue="Application.Admin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Admin" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="010b82ff-3902-4101-bc89-f1f4690bd58e" name="Default Changelist" comment="" />
+      <created>1584636669012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584636669012</updated>
+      <workItem from="1584636673043" duration="21257000" />
+      <workItem from="1586382120357" duration="3732000" />
+      <workItem from="1586422985149" duration="180000" />
+      <workItem from="1586423177646" duration="20166000" />
+      <workItem from="1586443782431" duration="669000" />
+      <workItem from="1586444678250" duration="19664000" />
+      <workItem from="1587135807488" duration="18569000" />
+      <workItem from="1587157514110" duration="2353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587155481488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586456426412" />
+    <state x="659" y="280" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587155481488" />
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1587154903730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586450707421" />
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587154903730" />
+    <state x="531" y="179" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586386737750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="179" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1586386737750" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1587159868586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586468646543" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587137785992" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587159868586" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1587159868586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586468646543" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587137785991" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587159868586" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1587159868586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586468646543" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587137785991" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587159868586" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1587159868586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586468646543" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587137785991" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587159868586" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584658187544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584658187544" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584658187544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584658187544" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584658187544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584658187544" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584658187544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584658187544" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1586423261360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586423261360" />
+    <state x="596" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1587740030606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586444680282" />
+    <state x="596" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587135807919" />
+    <state x="596" y="303" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587740030606" />
+  </component>
+</project>
